@@ -2,6 +2,7 @@
 
 - Built with ReactJS
 - React Router functionality
+- Material UI Core and Icons implemented
 
 ## Live Demo:
 
